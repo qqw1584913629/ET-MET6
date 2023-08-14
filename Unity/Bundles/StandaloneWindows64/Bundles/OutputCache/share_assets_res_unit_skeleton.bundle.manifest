@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 35392133
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 93019dd34adf7cb481285a89f88c0429
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bbfaa0f72a86ec3f92b1fc3129632085
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Unit/Skeleton/SkeletonController.controller
+Dependencies:
+- D:/GitHub/ET-MET6/Unity/Bundles/StandaloneWindows64/Bundles/OutputCache/share_assets_res_unit_skeleton_ani.bundle

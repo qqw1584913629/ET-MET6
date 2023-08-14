@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 1918275290
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b8b9108f8fded93e55e486017aeebce2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b6250456b0270a043be74ee2bcf3a735
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Unit/Skeleton/Ani/Skeleton@Idle.FBX
+- Assets/Res/Unit/Skeleton/Ani/Skeleton@Run.FBX
+Dependencies:
+- D:/GitHub/ET-MET6/Unity/Bundles/StandaloneWindows64/Bundles/OutputCache/share_assets_res_unit_skeleton_ani_materials.bundle

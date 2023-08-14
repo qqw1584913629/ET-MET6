@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3509955827
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a5045047f291d00dd28a8b09465f8408
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Unit/Skeleton/Texture/Skeleton_D.tif
+Dependencies: []

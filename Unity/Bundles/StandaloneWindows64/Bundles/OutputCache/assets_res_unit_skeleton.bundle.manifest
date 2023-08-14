@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 2276686557
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 271a960b4dee97c919d8175d83e805ad
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e3d5718d8d4e9cf260be9dd5b121c9f1
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Unit/Skeleton/Skeleton.prefab
+Dependencies:
+- D:/GitHub/ET-MET6/Unity/Bundles/StandaloneWindows64/Bundles/OutputCache/share_assets_res_unit_skeleton.bundle
+- D:/GitHub/ET-MET6/Unity/Bundles/StandaloneWindows64/Bundles/OutputCache/share_assets_res_unit_skeleton_ani.bundle
+- D:/GitHub/ET-MET6/Unity/Bundles/StandaloneWindows64/Bundles/OutputCache/share_assets_res_unit_skeleton_ani_materials.bundle

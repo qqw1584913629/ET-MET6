@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 2904752624
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 91355c93ed7bc2edcbce9f164cd40603
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d5656af68283edd8be48ea29d7c443ed
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Unit/Skeleton/Ani/Materials/skeleton_D.mat
+Dependencies:
+- D:/GitHub/ET-MET6/Unity/Bundles/StandaloneWindows64/Bundles/OutputCache/share_assets_res_unit_skeleton_texture.bundle
+- D:/GitHub/ET-MET6/Unity/Bundles/StandaloneWindows64/Bundles/OutputCache/unityshaders.bundle

@@ -1,0 +1,49 @@
+ManifestFileVersion: 0
+CRC: 738579778
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: assets_bundles_unit.bundle
+      Dependencies:
+        Dependency_0: assets_res_unit_skeleton.bundle
+    Info_1:
+      Name: assets_res_unit_skeleton.bundle
+      Dependencies:
+        Dependency_0: share_assets_res_unit_skeleton.bundle
+        Dependency_1: share_assets_res_unit_skeleton_ani.bundle
+        Dependency_2: share_assets_res_unit_skeleton_ani_materials.bundle
+    Info_2:
+      Name: assets_bundles_ui_common.bundle
+      Dependencies: {}
+    Info_3:
+      Name: assets_bundles_ui_dlg.bundle
+      Dependencies: {}
+    Info_4:
+      Name: assets_bundles_ui_item.bundle
+      Dependencies: {}
+    Info_5:
+      Name: assets_bundles_ui.bundle
+      Dependencies: {}
+    Info_6:
+      Name: assets_scenes.bundle
+      Dependencies:
+        Dependency_0: unityshaders.bundle
+    Info_7:
+      Name: share_assets_res_unit_skeleton.bundle
+      Dependencies:
+        Dependency_0: share_assets_res_unit_skeleton_ani.bundle
+    Info_8:
+      Name: share_assets_res_unit_skeleton_texture.bundle
+      Dependencies: {}
+    Info_9:
+      Name: share_assets_res_unit_skeleton_ani.bundle
+      Dependencies:
+        Dependency_0: share_assets_res_unit_skeleton_ani_materials.bundle
+    Info_10:
+      Name: share_assets_res_unit_skeleton_ani_materials.bundle
+      Dependencies:
+        Dependency_0: share_assets_res_unit_skeleton_texture.bundle
+        Dependency_1: unityshaders.bundle
+    Info_11:
+      Name: unityshaders.bundle
+      Dependencies: {}

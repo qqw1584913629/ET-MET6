@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 4044925894
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b4aede65e579818ed195b68be977164f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2aebd5c1fd16de83f3caf078bcd2dd8b
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 502d8cafd6a5a0447ab1db9a24cdcb10, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Unity.Mono
+  ClassName: ReferenceCollectorData
+Assets:
+- Assets/Bundles/Unit/Unit.prefab
+Dependencies:
+- D:/GitHub/ET-MET6/Unity/Bundles/StandaloneWindows64/Bundles/OutputCache/assets_res_unit_skeleton.bundle

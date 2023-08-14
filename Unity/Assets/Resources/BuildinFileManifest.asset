@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca1743dd4bbb468f9044a318c7296123, type: 3}
+  m_Name: BuildinFileManifest
+  m_EditorClassIdentifier: 
+  BuildinFiles:
+  - 0bb4324ca4966c5412df559880fc10f8.bundle
+  - 193c5447cac00f69ad9787c722c2a63a.bundle
+  - 2e7a72d487e289f4db1410b4fe016d18.bundle
+  - 30a50946cf6f6dfc468c7c3b41535769.bundle
+  - 3fbe09549ec1d1158c152e41193fbd85.rawfile
+  - 40aacb9f75cde2a1f8a4c39775ea16fc.rawfile
+  - 42e7edd3314a95fd1b9f1a01a2436aa1.rawfile
+  - 560bb6c1266f293e437028d60c3e520d.rawfile
+  - 58bf73796de83e5c3fbaefd14f5e5a6e.rawfile
+  - 5b77b01f7d0301769b4947f6d7b1f17f.rawfile
+  - 71307548baff05b0bd11a82eb2bd167d.rawfile
+  - 94dd798239cb9f98e689aede8a428a78.rawfile
+  - a804a8cbd055561f3c1b56e768faa59e.bundle
+  - a9a1fd1cdc60d3a17669ed362088099e.bundle
+  - b42353d65abc12cf473931841cd8865c.rawfile
+  - b848a2979c8966c89bd4bb64c4533834.bundle
+  - c0a644871b1bee4bdac2a15d15714cb0.bundle
+  - c720849d6ac7418fd222ce5db8e3838e.rawfile
+  - cf57b8b949bb769916db1b09ed11251e.bundle
+  - da3017ec692ac88aa2263140d4f04f98.bundle
+  - df26feafb2ef01236090ad9f510009cc.rawfile
+  - f016339f1b030ea7df77acfbcac1f69e.rawfile
+  - f117331dd712a72f73c97558ef80e621.bundle
+  - fa843178e49f15ac8b9c92081d6c22b6.bundle
+  - fa889026dbc14ad892841932645c2599.rawfile
